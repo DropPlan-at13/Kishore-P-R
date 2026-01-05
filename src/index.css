@@ -30,8 +30,3 @@ body {
   display: none; /* Chrome, Safari, Edge */
 }
 
-export default defineConfig({
-  base: '/Kishoredev.io/',
-  plugins: [react()],
-});
-
